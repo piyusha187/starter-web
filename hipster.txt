@@ -1,1 +1,4 @@
 New Text from the www.meettheipsums.com
+
+
+Doing add and commit in one go
