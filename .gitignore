@@ -4,3 +4,4 @@ debug
 bin/debug
 *.dll
 *.log
+*.orig
