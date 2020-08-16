@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Apply stash to a new feature branch
 
 ##  Inroduction
 This is a simple web site for GIT training purpose.
